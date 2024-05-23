@@ -1,1 +1,1 @@
-THis is the module 15 Leaflet Challenge 
+This is the module 15 Leaflet Challenge 
